@@ -1,2 +1,0 @@
-# BillResume
-My Resume / CV
