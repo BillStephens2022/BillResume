@@ -99,29 +99,12 @@ body {
     padding-top: 15px;
   }
   
-  .contact-details {
+  .contact-details, .phone, .location, .linkedin, .portfolio {
     font-style: Montserrat;
     font-weight: 100;
     padding-left: 10px;
   }
   
-  .phone {
-    font-style: Montserrat;
-    font-weight: 100;
-    padding-left: 10px;
-  }
-  
-  .location {
-    font-style: Montserrat;
-    font-weight: 100;
-    padding-left: 10px;
-  }
-  
-  .linkedin {
-    font-style: Montserrat;
-    font-weight: 100;
-    padding-left: 10px;
-  }
   .work-experience {
     background-color: #fff;
   }
