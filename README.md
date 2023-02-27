@@ -6,7 +6,7 @@
 
   Screenshot below:
 
-  ![resume](./billresume.png)
+  ![resume](./images/billresume.png)
   
   ## Table of Contents
   
